@@ -16,6 +16,8 @@
 
 ## Справка по работе сайта
 
+[**Демо**](https://drive.google.com/file/d/1QfhV1YOMhNJl8T8drhYa4H4XitTy_D4v/view?usp=sharing)
+
 * Первое, что попадется на глаза это возможность загрузить файл 
 
 ![drag2drop](https://github.com/lnfin/polus_hackathon/blob/main/utils/drag2drop.png)
