@@ -82,8 +82,8 @@ def load_write_process(vid, rate=1/30, frameName='frame'):
 
         ## Stop when last frame is identified
         # print(frame)
-        # if frame > seconds or not success:
-        #     break
+        if frame > seconds or not success:
+            break
     # for i in range(len(os.listdir('test/'))):
         print('extracting frame ' + str(frame) + '-%d.png' % count)
 
